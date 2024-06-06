@@ -1,0 +1,47 @@
+.header {
+  overflow: hidden;
+  text-align: center;
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+.header > span{
+  color: crimson;
+  font-size: 30px;
+}
+
+main{
+  margin: 15px 25px;
+}
+
+.card-text{
+  font-size: 12;
+}
+
+.complete, .delete{
+  float: right;
+  margin: 5px 10px;
+}
+
+.hover{
+  background-color: #ce42f5;
+  color: #ffffff;
+  padding: 50px;
+  text-align: center;
+}
+
+.addtask{
+  margin: auto;
+}
+
+.hover > p{
+  font-size: 40px;
+}
+
+.noTask{
+  font-size: 20px;
+  color: rgb(49, 135, 49);
+  text-align: center;
+  padding: 25px;
+}
+
